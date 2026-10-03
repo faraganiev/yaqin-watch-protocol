@@ -22,7 +22,7 @@ Low-cost GPS watches are widely available, but their server protocol is inconsis
 - Unit tests covering framing edge cases and representative reports
 - No external Go dependencies
 
-## Before publishing
+
 
 The module path is preconfigured for `github.com/faraganiev/yaqin-watch-protocol`.
 
